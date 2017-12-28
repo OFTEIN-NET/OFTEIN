@@ -13,8 +13,8 @@ In order to enhance and expend the OF@TEIN collaboration community, an OF@TEIN+ 
 
 Following partners from existing OF@TEIN collaboration community will continue to participate in the proposed OF@TEIN+ project:
 
-![of tein-1](images/oftein-1.png)
+![of tein-1](blob/master/Images/oftein-1.png)
 
 The overview diagram of OF@TEIN infrastructure, built through the collaborative effort of OF@TEIN partners, is depicted below:
  
-![of tein-2](images/oftein-2.png)
+![of tein-2](blob/master/Iimages/oftein-2.png)
