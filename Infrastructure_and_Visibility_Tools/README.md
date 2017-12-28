@@ -1,21 +1,21 @@
 # OF@TEIN Physical Infrastructure 
 
 
-![infrastructure](blob/master/Images/infrastructure.png)
+![infrastructure](Images/infrastructure.png)
 # Application Main UI
-![visibility-1](blob/master/Images/visibility-1.png)
+![visibility-1](Images/visibility-1.png)
 
 # Resources Map & Online Status
-![visibility-2](blob/master/Images/visibility-2.png)
+![visibility-2](Images/visibility-2.png)
 
 # Draw Physical Links
-![visibility-3](blob/master/Images/visibility-3.png)
+![visibility-3](Images/visibility-3.png)
 
 # Box Performance Data Visualization
-![visibility-4](blob/master/Images/visibility-4.png)
+![visibility-4](Images/visibility-4.png)
 
 # Box Memory Utilization
-![visibility-5](blob/master/Images/visibility-5.png)
+![visibility-5](Images/visibility-5.png)
 
 # Box Disk Utilization
-![visibility-6](blob/master/Images/visibility-6.png)
+![visibility-6](Images/visibility-6.png)
