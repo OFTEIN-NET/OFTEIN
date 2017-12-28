@@ -17,4 +17,4 @@ Following partners from existing OF@TEIN collaboration community will continue t
 
 The overview diagram of OF@TEIN infrastructure, built through the collaborative effort of OF@TEIN partners, is depicted below:
  
-![of tein-2](Iimages/oftein-2.png)
+![of tein-2](Images/oftein-2.png)
