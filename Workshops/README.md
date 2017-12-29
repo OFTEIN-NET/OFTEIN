@@ -1,0 +1,8 @@
+## [OF@TEIN Training Workshop - Islamabad 2015](Islamabad-workshop-2015.md)
+![Islamabad-Workshop-2105](../Images/Islamabad-Workshop-2105.jpg)
+## [OF@TEIN Training Workshop - Hanoi 2015](Hanoi-workshop-2015.md)
+![Hanoi-Workshop-2105](../Images/Hanoi-Workshop-2105.jpg)
+## [OF@TEIN Training Workshop - Bangkok 2014](Bangkok-workshop-2014.md)
+![Bangkok-Workshop-2104](../Images/Bangkok-Workshop-2104.jpg)
+## [OF@TEIN Training Workshop - Kuala Lumpur 2013](KL-workshop.md)
+![KL-Workshop-2103](../Images/KL-Workshop-2103.jpg)
