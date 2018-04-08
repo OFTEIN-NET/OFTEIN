@@ -34,4 +34,4 @@ Please go to [Workshops](Workshops/README.md) page to see the list of previous p
 
 ## Selected List of Publications
 
-Please go to [Publications](Publications/README.md) page to see the selected list of publications.
+Please go to [Publications](Publications/OFTEIN_A_Community_Effort.pdf) page to see the selected list of publications.
