@@ -18,3 +18,20 @@ Following partners from existing OF@TEIN collaboration community will continue t
 The overview diagram of OF@TEIN infrastructure, built through the collaborative effort of OF@TEIN partners, is depicted below:
  
 ![of tein-2](Images/oftein-2.png)
+
+
+## OF@TEIN Playground 
+
+Please go to [OF@TEIN Playground](Playground/README.md) page to have an overview of the Playground.
+
+## Software Solutions
+
+Please go to [Ops-Software](Infrastructure_and_Visibility_Tools/README.md) page to see the working of developed operational software solutions.
+
+## Project Workshops
+
+Please go to [Workshops](Workshops/README.md) page to see the list of previous project meetings.
+
+## Selected List of Publications
+
+Please go to [Publications](Publications/README.md) page to see the selected list of publications.
